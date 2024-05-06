@@ -1,0 +1,4 @@
+# .tool-versions
+# Execute `mise ls` to check current installed to avoid loading the latest version every time
+node 20.12.2
+pnpm 9.1.0
